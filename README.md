@@ -1,8 +1,7 @@
-# **README.md**
----
-## **Simple Calculator App**
+# **SIMPLE CALCULATOR APP**
 
-Voici la consigne qui vous permettra de concevoir une __Simple Calculatrice__ !
+Ce projet a été réalisé dans le but d'obtenir une petite __Calculatrice Numérique__ depuis
+son ordinateur ou smartphone.
 
 Cette **Calculatrice Numérique**, vous permettant de tricher lors de vos controles de maths. 🤫
 
@@ -11,26 +10,26 @@ Cette **Calculatrice Numérique**, vous permettant de tricher lors de vos contro
 
 >- [A_propos](#A-propos)
 >- [Fonctionnalités](#Fonctionnalités)
->- [Tableau](#Tableau)
->- [Technologies_utilisées](#Technologie-utilisées)
+>- [Visuel](#Visuel)
 >- [Prerequis](#prerequis)
 >- [Installation](#Installation)
->- [Commandes_Principales](#Commandes_Principales)
 >- [Contact](#Contact)
 
 ---
 
 ## **À propos**
 
-Ce Projet a pour but de concevoir une petite __Calculatrice Numérique__, elle résoud des opérations mathématiques via votre ordinateur ou smartphone.
+__Simple Caclulator App__ est un projet fini entièrement réaliser en langage _Python_,
+vous pourrez donc résoudre des opérations mathématiques via votre appareil numérique.
+Ce repo a servi principalement d'entrainement pour découvrir Tkinter. 
 
-Il répond au besoin suivant : **Calculer**
 
 ---
 
 
 ## Fonctionnalités
 
+Voici ce que la __Caclulatrice__ est capable de faire :
 - ✅ Addition
 - ✅ Soustraction
 - ✅ Division
@@ -43,33 +42,19 @@ Il répond au besoin suivant : **Calculer**
 
 ---
 
-## Tableau
+## Visuel
 
-Voici un schéma de la calculatrice représenté __sous forme de tableau__ :
+Voici à quoi devrait ressembler la __Calculatrice Numérique__ sur votre ordinateur :
 
->|    |      |    |   |
->|-----|-------|-----|-----|
->| 1  | 2   | 3   | +   |
->| 4   | 5     | 6   | -   |
->| 7  | 8     | 9   | *   |
->| 0   | Clear   | =   | /  |
->| . |
-
----
-
-## Technologies utilisées
-
-- Frontend : Python (Version : 2025.6.0) ✅
-- Backend : AUCUN [❌]
-- Base de données : AUCUN [❌]
+![imageapp]("C:\Users\hakim\Pictures\Screenshots\Capture d'écran 2025-04-29 113727.png")
 
 ---
 
 ## Prerequis
 
-- VisualStudioCode
-- Git et GitHub 
-- Anaconda
+- Assurez-vous d'avoir la version 3.10.7 de _Python_
+
+>Lien vers le téléchargement : https://www.python.org/downloads/?lang=fr
 
 ---
 
@@ -78,20 +63,44 @@ Voici un schéma de la calculatrice représenté __sous forme de tableau__ :
 Vous pouvez télécharger la __Calculatrice__ en ouvrant le __lien GitHub__ si dessous :
 > https://github.com/VianneyMI/Simple-Calculator-App.git
 
-## Commandes Principales
+Une fois entré dans le GitHub, vous devrez arriver sur cette page si dessous :
 
-Commande pour créer **les boutons** :
-```
-button1 = Button(gui, text=' 1 ', fg='black', bg='red', 
-                     command=lambda: equation.set(press(1)), height=1, width=7) 
-    button1.grid(row=2, column=0)
-```
+![image1]("C:\Users\hakim\Pictures\Screenshots\screentruc1.png")
 
+Veuillez ensuite cliquer sur l'icone "*<> Code*", puis télécharger le fichier ZIP.
+
+![image2]("C:\Users\hakim\Pictures\Screenshots\Capture d'écran 2025-04-29 111020.png")
+
+Dès que votre  fichier ZIP est téléchargé, depuis votre éditeur de code source, veuillez
+ouvrir le fichier que vous venez de télécharger.
+
+Voici un exemple si vous utilisez _Visual Studio Code_ :
+
+![image3]("C:\Users\hakim\Pictures\Screenshots\Capture d'écran 2025-04-29 111520.png")
+
+Cloner la __Calculatrice__ depuis le repository, puis sélectionner le fichier que vous
+avez téléchargé jusqu'à maintenant.
+
+![image4]("C:\Users\hakim\Pictures\Screenshots\Capture d'écran 2025-04-29 111832.png")
+
+Si ce n'est pas déjà fait, télécharger l'extension Python (et Python Debugger au cas où)
+depuis votre éditeur de code source.
+
+![image5]("C:\Users\hakim\Pictures\Screenshots\Capture d'écran 2025-04-29 112537.png")
+
+Tout le programme devrait etre importer depuis votre éditeur de code, suffit maintenant
+de _Run_ pour pouvoir utiliser cette fameuse __Application Calculatrice__ !
+
+Voici le résultat :
+
+![image6]("C:\Users\hakim\Pictures\Screenshots\Capture d'écran 2025-04-29 113141.png")
 
 ---
 
 
 ## Contact
+
+En cas de questions, veuillez contacter :
 
 Auteur : Vianney Mixtur
 
