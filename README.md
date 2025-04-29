@@ -6,7 +6,7 @@ son ordinateur ou smartphone.
 Cette **Calculatrice Numérique**, vous permettant de tricher lors de vos controles de maths. 🤫
 
 
-## Sommaire
+## *Sommaire*
 
 >- [A_propos](#A-propos)
 >- [Fonctionnalités](#Fonctionnalités)
@@ -17,11 +17,12 @@ Cette **Calculatrice Numérique**, vous permettant de tricher lors de vos contro
 
 ---
 
-## **À propos**
+## À propos
 
-__Simple Caclulator App__ est un projet fini entièrement réaliser en langage _Python_,
-vous pourrez donc résoudre des opérations mathématiques via votre appareil numérique.
-Ce repo a servi principalement d'entrainement pour découvrir Tkinter. 
+__Simple Caclulator App__ est un projet fini entièrement réaliser en langage de
+programmation _Python_, vous pourrez donc résoudre des opérations mathématiques
+via votre appareil numérique. Ce repo a servi principalement d'entrainement
+pour découvrir Tkinter. 
 
 
 ---
@@ -37,6 +38,8 @@ Voici ce que la __Caclulatrice__ est capable de faire :
 - ✅ Initialiser
 - ✅ Nombre à virgule
 - ✅ Supprimer
+
+Ce qu'elle est incapable de faire :
 - ❌ Nombre x^2 
 - ❌ Nombre √ x 
 
@@ -44,9 +47,9 @@ Voici ce que la __Caclulatrice__ est capable de faire :
 
 ## Visuel
 
-Voici à quoi devrait ressembler la __Calculatrice Numérique__ sur votre ordinateur :
+Voici à quoi devrait ressembler l'__Application Calculatrice Numérique__ sur votre ordinateur :
 
-![imageapp]("C:\Users\hakim\Pictures\Screenshots\Capture d'écran 2025-04-29 113727.png")
+![imageapp]("C:\Users\hakim\Pictures\Screenshots\screenapp.png")
 
 ---
 
@@ -69,31 +72,31 @@ Une fois entré dans le GitHub, vous devrez arriver sur cette page si dessous :
 
 Veuillez ensuite cliquer sur l'icone "*<> Code*", puis télécharger le fichier ZIP.
 
-![image2]("C:\Users\hakim\Pictures\Screenshots\Capture d'écran 2025-04-29 111020.png")
+![image2]("C:\Users\hakim\Pictures\Screenshots\screentruc2.png")
 
 Dès que votre  fichier ZIP est téléchargé, depuis votre éditeur de code source, veuillez
 ouvrir le fichier que vous venez de télécharger.
 
 Voici un exemple si vous utilisez _Visual Studio Code_ :
 
-![image3]("C:\Users\hakim\Pictures\Screenshots\Capture d'écran 2025-04-29 111520.png")
+![image3]("C:\Users\hakim\Pictures\Screenshots\screentruc3.png")
 
 Cloner la __Calculatrice__ depuis le repository, puis sélectionner le fichier que vous
 avez téléchargé jusqu'à maintenant.
 
-![image4]("C:\Users\hakim\Pictures\Screenshots\Capture d'écran 2025-04-29 111832.png")
+![image4]("C:\Users\hakim\Pictures\Screenshots\screentruc4.png")
 
 Si ce n'est pas déjà fait, télécharger l'extension Python (et Python Debugger au cas où)
 depuis votre éditeur de code source.
 
-![image5]("C:\Users\hakim\Pictures\Screenshots\Capture d'écran 2025-04-29 112537.png")
+![image5]("C:\Users\hakim\Pictures\Screenshots\screentruc5.png")
 
 Tout le programme devrait etre importer depuis votre éditeur de code, suffit maintenant
 de _Run_ pour pouvoir utiliser cette fameuse __Application Calculatrice__ !
 
 Voici le résultat :
 
-![image6]("C:\Users\hakim\Pictures\Screenshots\Capture d'écran 2025-04-29 113141.png")
+![image6]("C:\Users\hakim\Pictures\Screenshots\screentruc6.png")
 
 ---
 
