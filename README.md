@@ -49,7 +49,7 @@ Ce qu'elle est incapable de faire :
 
 Voici à quoi devrait ressembler l'__Application Calculatrice Numérique__ sur votre ordinateur :
 
-![imageapp]("C:\Users\hakim\Desktop\screenREADME\screenapp.png")
+![imageapp](".vscode\screenapp.png")
 
 ---
 
@@ -68,35 +68,35 @@ Vous pouvez télécharger la __Calculatrice__ en ouvrant le __lien GitHub__ si d
 
 Une fois entré dans le GitHub, vous devrez arriver sur cette page si dessous :
 
-![image1]("C:\Users\hakim\Desktop\screenREADME\screentruc1.png")
+![image1](".vscode\screentruc1.png")
 
 Veuillez ensuite cliquer sur l'icone "*<> Code*", puis télécharger le fichier ZIP.
 
-![image2]("C:\Users\hakim\Desktop\screenREADME\screentruc2.png")
+![image2](".vscode\screentruc2.png")
 
 Dès que votre  fichier ZIP est téléchargé, depuis votre éditeur de code source, veuillez
 ouvrir le fichier que vous venez de télécharger.
 
 Voici un exemple si vous utilisez _Visual Studio Code_ :
 
-![image3]("C:\Users\hakim\Desktop\screenREADME\screentruc3.png")
+![image3](".vscode\screentruc3.png")
 
 Cloner la __Calculatrice__ depuis le repository, puis sélectionner le fichier que vous
 avez téléchargé jusqu'à maintenant.
 
-![image4]("C:\Users\hakim\Desktop\screenREADME\screentruc4.png")
+![image4](".vscode\screentruc4.png")
 
 Si ce n'est pas déjà fait, télécharger l'extension Python (et Python Debugger au cas où)
-depuis votre éditeur de code source.
+depuis votre éditeur de code source. 
 
-![image5]("C:\Users\hakim\Desktop\screenREADME\screentruc5.png")
+![image5](".vscode\screentruc5.png")
 
 Tout le programme devrait etre importer depuis votre éditeur de code, suffit maintenant
 de _Run_ pour pouvoir utiliser cette fameuse __Application Calculatrice__ !
 
 Voici le résultat :
 
-![image6]("C:\Users\hakim\Desktop\screenREADME\screentruc6.png")
+![image6](".vscode\screentruc6.png")
 
 ---
 
