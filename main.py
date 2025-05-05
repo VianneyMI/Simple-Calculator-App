@@ -5,7 +5,6 @@ from tkinter import StringVar, Button, Entry, Tk
 
 def main():
     
-    print("Hello world")
     model = CalculatorModel()
     controller = CalculatorController(model)
     view = CalculatorView(controller)
